@@ -1,10 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Eslam</h1>
 <h3 align="center">Flutter Developer | UI/UX Enthusiast | Mobile Magician 🪄</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -39,13 +35,61 @@
 </p>
 
 ---
+---
 
 ## 📱 Some Cool Projects
 
-- 📝 [NoteNest](https://github.com/yourusername/notenest) — Beautiful note-taking app with animations  
-- 🛒 [ShopX](https://github.com/yourusername/shopx) — E-commerce UI with real Firebase backend  
-- 📊 [Statify](https://github.com/yourusername/statify) — Realtime dashboard made with Flutter Web
+- 🍣 [Sushi_App](https://github.com/eslamohammed/Sushi_App)  
+  App showcasing sushi menu with clean UI and smooth navigation.
 
+- 🎨 [graphicsApp](https://github.com/eslamohammed/graphicsApp)  
+  Portfolio-style app to empower designers and showcase their graphic works.
+
+- 📿 [Qur-an_App](https://github.com/eslamohammed/Qur-an_App)  
+  Quran app with elegant UI, Surah browsing and daily verse reminder.
+
+- ✅ [todo_app_with_hive](https://github.com/eslamohammed/todo_app_with_hive)  
+  To-do list app using Hive for local storage and Cubit for state handling.
+
+- 🛍️ [e-cart](https://github.com/eslamohammed/e-cart)  
+  Another variation of shopping app with responsive design elements.
+
+- 🧮 [BMI_APP](https://github.com/eslamohammed/BMI_APP)  
+  BMI calculator app with interactive input and real-time calculations.
+
+- 📚 [assignment](https://github.com/eslamohammed/assignment)  
+  Educational Flutter app with modular structure for assignments.
+
+- ❓ [quiz_app_using_firebase](https://github.com/eslamohammed/quiz_app_using_firebase)  
+  Quiz app that uses Firebase backend for questions and results.
+
+- 🏨 [bnb_with_bloc](https://github.com/eslamohammed/bnb_with_bloc)  
+  Bottom navigation bar demo using BLoC pattern.
+
+- ✍️ [Content_writer](https://github.com/eslamohammed/Content_writer)
+  Flutter UI for content-writing app with clean and modern style.  
+  Content creation layout and UI elements demo.
+
+- 🛏️ [Booking](https://github.com/eslamohammed/Booking)  
+  Hotel booking app concept with elegant design and filters.
+
+- 💬 [Quotes](https://github.com/eslamohammed/Quotes)  
+  Display motivational quotes with smooth transitions.
+
+- 🌀 [Gimmeflutter](https://github.com/eslamohammed/Gimmeflutter)  
+  Collection of Flutter UI concepts, animations and layout ideas.
+
+- 🌦️ [My_weatherApp](https://github.com/eslamohammed/My_weatherApp)  
+  Weather forecast app showing 5-day reports for any city using Flutter.
+
+- 🧠 [NetworkProgramming](https://github.com/eslamohammed/NetworkProgramming)  
+  Educational Python repo showcasing basic network programming concepts.
+
+- 🛍️ [Gimme](https://github.com/eslamohammed/Gimme)  
+  Social shopping app idea to connect users with unofficial stores.
+
+- 🔁 [client-server](https://github.com/eslamohammed/client-server)  
+  Java-based client-server architecture demonstration using sockets.
 ---
 
 ## 📫 Let's Connect
