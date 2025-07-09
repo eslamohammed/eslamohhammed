@@ -29,7 +29,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="eslam's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EslamMohammed&show_icons=true&theme=tokyonight" alt="eslam's github stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
 </p>
