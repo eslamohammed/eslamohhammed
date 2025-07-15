@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm EslamMohammed</h1>
-<h3 align="center">Flutter Developer | UI/UX Enthusiast | Mobile Magician 🪄</h3>
+<h1 align="center">Hey there 👋, I'm Eslam Mohammed</h1>
+<h3 align="center"> CSE | Flutter Developer | UI/UX Enthusiast | Mobile Magician 🪄</h3>
 
 ---
 
